@@ -13,11 +13,14 @@ body {
 
 .minor-images-container {
     display: flex;
+    gap: 13px;
 }
 
 .image img {
-    max-width: 200px;
+    max-width: 150px;
     max-height: auto;
+    border: solid #3882f6;
+    border-radius: 15px;
 }
 
 button {
@@ -38,3 +41,4 @@ button {
     margin-top: auto;
     display: flex;
 }
+

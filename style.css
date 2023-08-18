@@ -103,3 +103,27 @@ ul {
     height: auto;
     padding: 50px 0px;
 }
+
+.bottom-panel {
+    display: flex;
+    justify-content: center;
+    flex: 1;
+    align-items: center;
+
+}
+
+.banner-ad {
+    background-color: #3882f6;
+    border-radius: 5px;
+    padding: 20px 60px;
+    margin: 20px 0px;
+    width: 437px;
+    height: 80px;
+    
+}
+
+.banner-text-title {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}

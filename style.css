@@ -8,7 +8,11 @@ body {
 
 .header {
     background-color: #1f2937;
-    padding: 30px;
+    padding: 15px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .minor-images-container {
@@ -42,3 +46,8 @@ button {
     display: flex;
 }
 
+ul {
+    display: flex;
+    list-style-type: none;
+    gap: 20px;
+}

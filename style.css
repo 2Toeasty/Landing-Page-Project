@@ -19,6 +19,7 @@ body {
 .minor-images-container {
     display: flex;
     gap: 13px;
+    text-align: center;
 }
 
 .image img {
@@ -83,3 +84,4 @@ ul {
     align-items: center;
     padding: 20px;
 }
+

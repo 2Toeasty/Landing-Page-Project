@@ -1,5 +1,9 @@
-.body {
+body {
     font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0;
 }
 
 .header {
@@ -24,4 +28,13 @@ button {
     height: 25px;
     border: none;
     font-weight: bold;
+}
+
+.footer {
+    background-color: #1f2937;
+    color: white;
+    padding: 30px;
+    justify-content: center;
+    margin-top: auto;
+    display: flex;
 }

@@ -81,7 +81,7 @@ ul {
 }
 
 .logo {
-    width: 280px;
+    width: 480px;
 }
 /*.header-content-container {
     width: 100%; 
@@ -92,8 +92,8 @@ ul {
 }
 
 .main-image-container img {
-    width: 300px;
-    height: auto;
+    width: 500px;
+    height: 200px;
     align-items: center;
     justify-content: center;
 }

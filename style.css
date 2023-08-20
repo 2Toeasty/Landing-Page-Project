@@ -158,12 +158,8 @@ ul {
 }
 
 .author-name {
-    
+   font-size: 20px; 
+   font-weight: 800;
+   float: right;
+   padding-top: 10px;
 }
-
-
-/*
-TODO:
-Align content under header with content in header
-Separate the author of quote from the quote itself + apply different font & size to it
-*/
